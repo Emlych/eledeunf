@@ -1,0 +1,41 @@
+.sidebar-body {
+    text-align: center;
+}
+
+.App-sidebar-h1 {
+    color: black;
+    text-transform: uppercase;
+    font-size: calc(10px + 2vmin);
+  }
+
+.App-sidebar-h1 span {
+    color: #00B3B3;
+}
+
+.sidebar-body span {
+    color: #00B3B3;
+}
+
+#id-profilpic {
+    max-width: 70%;
+}
+
+.sidebar-body ul {
+    list-style: none;
+}
+
+.sidebar-ul li {
+    margin-left: -30px;
+    list-style: none;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+.sidebar-body a {
+    text-decoration: none;
+    color: black;
+}
+
+#id-logopic {
+    max-width: 25%;
+}
