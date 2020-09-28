@@ -1,8 +1,8 @@
 {
   "name": "portfolio",
-  "homepage": "http://eledeunf.github.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://emlych.github.io/eledeunf.github.io/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
@@ -17,9 +17,9 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
+      "start": "react-scripts start",
       "predeploy": "npm run build",
       "deploy": "gh-pages -d build",
-      "start": "react-scripts start",
       "build": "react-scripts build",
       "test": "react-scripts test",
       "eject": "react-scripts eject"
