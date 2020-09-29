@@ -1,6 +1,4 @@
 import React, {Component} from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faLink } from '@fortawesome/free-solid-svg-icons'
 import './sidebar.css';
 
 export default class Sidebar extends Component {

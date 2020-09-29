@@ -3,7 +3,7 @@ import './App.css';
 import Sidebar from './components/sidebar';
 import Intro from './components/intro';
 import About from './components/about';
-import Timeline from './components/timeline'
+import Timeline from './components/timeline';
 
 class App extends Component {
   render() {
@@ -13,7 +13,6 @@ class App extends Component {
         <div className="App-sidebar">
           <Sidebar />
         </div>
-        
         
         <div className="App-body">
           <Intro />

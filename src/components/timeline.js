@@ -64,8 +64,7 @@ export default class Timeline extends Component {
 
                             <div className="content-right">
                                     <div className="timeline-item-title">
-                                        <h2>Ingénieure de recherche</h2>
-                                         
+                                        <h2>Ingénieure de recherche</h2>    
                                     </div>
                                     <h3>ONERA, Fauga-Mauzac</h3>
                                     <img src='./images/shuttle.svg' alt="image d'une fusée" id='id-itempic'/>   
