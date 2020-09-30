@@ -6,7 +6,7 @@ export default class Sidebar extends Component {
         return(
             <div className="sidebar-body">
                 <nav href="#navbar">
-                    <img src='eledeunf.github.io\public\images\profilePic.svg' alt="profil Emily" id='id-profilpic'/>  
+                    <img src='./images/profilePic.svg' alt="profil Emily" id='id-profilpic'/>  
                     <h1 className="App-sidebar-h1"><span>Emily</span> Le Deunf</h1>
                     
                     <p>Ingénieure militaire DGA en projet de reconversion dans le <span>développement web</span>.</p>
