@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                                 </div>
 
                                 <h3>Service du Soutien de la Flotte, Brest</h3>
-                                <img src='./images/marine.svg' alt="image d'un bateau" id='id-itempic'/>
+                                <img src='./images/marine.svg' alt="bateau" id='id-itempic'/>
                                 <p>Pilotage de contrats de maintenance de plus de 250 navires<br/>
                                 Négociation et passation de contrats</p>
                                 <p>Gestion de projet, MCO naval, marchés publics, négociation de contrats, culture Marine Nationale </p>
@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                             <div className="content-left">
                                 <div className="timeline-item-title">
                                     <h2>Formation développement web </h2>  
-                                    <img src='./images/devweb.svg' alt="image de fenêtres de dev" id='id-itempic'/>
+                                    <img src='./images/devweb.svg' alt="fenêtres de dev" id='id-itempic'/>
                                 </div>
 
                                 <h3>Autodidacte : Openclassroom / Scrimba</h3>
@@ -67,7 +67,7 @@ export default class Timeline extends Component {
                                         <h2>Ingénieure de recherche</h2>    
                                     </div>
                                     <h3>ONERA, Fauga-Mauzac</h3>
-                                    <img src='./images/shuttle.svg' alt="image d'une fusée" id='id-itempic'/>   
+                                    <img src='./images/shuttle.svg' alt="fusée" id='id-itempic'/>   
                                     <p>Laboratoire de Propulsion : caractérisation acoustique du phénomène vibratoire présent dans les moteurs de l'Ariane 5.</p>
                             </div>    
                         </div>
@@ -83,7 +83,7 @@ export default class Timeline extends Component {
 
                                 <div className="timeline-item-title">
                                     <h2>Master recherche</h2>
-                                    <img src='./images/certificate.svg' alt="image d'un diplôme" id='id-itempic'/>  
+                                    <img src='./images/certificate.svg' alt="diplôme" id='id-itempic'/>  
                                 </div>
                                 <h3>ENSMA Poitiers - groupe ISAE, Poitiers</h3>
                                 <p>Combustion turbulente, dynamique des détonations</p>
@@ -116,7 +116,7 @@ export default class Timeline extends Component {
                                         
                                 <div className="timeline-item-title">
                                     <h2>Diplôme d'ingénieur</h2>
-                                    <img src='./images/certificate.svg' alt="image d'un diplôme" id='id-itempic'/>    
+                                    <img src='./images/certificate.svg' alt="diplôme" id='id-itempic'/>    
                                 </div>
                                 <h3>ENSTA Bretagne, Brest</h3>
                                 <p>Spécialisation en matériaux énergétiques et systèmes de propulsion</p>

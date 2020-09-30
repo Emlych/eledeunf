@@ -6,7 +6,7 @@ export default class Sidebar extends Component {
         return(
             <div className="sidebar-body">
                 <nav href="#navbar">
-                    <img src='./images/profilePic.svg' alt="photo de profil Emily" id='id-profilpic'/>
+                    <img src='eledeunf.github.io\public\images\profilePic.svg' alt="profil Emily" id='id-profilpic'/>  
                     <h1 className="App-sidebar-h1"><span>Emily</span> Le Deunf</h1>
                     
                     <p>Ingénieure militaire DGA en projet de reconversion dans le <span>développement web</span>.</p>
@@ -24,7 +24,7 @@ export default class Sidebar extends Component {
 
                     <nav>
                         <ul className="sidebar-ul">
-                            <li><a href="https://www.linkedin.com/in/emily-lagr%C3%A9ou-964107143/" target="_blank" rel="noopener norefferer"><img src='./images/linkedin.svg' alt="logo de LinkedIn" id='id-logopic'/></a></li>
+                            <li><a href="https://www.linkedin.com/in/emily-lagr%C3%A9ou-964107143/" target="_blank" rel="noopener noreferrer"><img src='./images/linkedin.svg' alt="logo de LinkedIn" id='id-logopic'/></a></li>
                         </ul>
                     </nav>
 

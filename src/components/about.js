@@ -8,8 +8,8 @@ export default class About extends Component {
                 <section id="about">
                     <p>Ingénieure militaire, je prépare actuellement ma reconversion dans le milieu du développement web.</p>
                     <p>Je suis une autodidacte qui a commencé à poser petit à petit les briques de HTML5, CSS3, Javascript et la librairie React. <br/>
-                    Mes ressources : <a href="https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3" target="_blank">OpenClassroom</a>, 
-                        <a href="https://scrimba.com/learn/learnreact" target="_blank"> Scrimba </a> et livres (dont Eloquent Javascript).</p>
+                    Mes ressources : <a href="https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3" target="_blank" rel="noopener noreferrer"> OpenClassroom</a>, 
+                        <a href="https://scrimba.com/learn/learnreact" target="_blank" rel="noopener noreferrer"> Scrimba </a> et livres (dont Eloquent Javascript).</p>
                     
                     <p>Je me suis essayée dernièrement au domaine du design graphique, notamment via la suite Adobe : Illustrator et InDesign.</p>
 
