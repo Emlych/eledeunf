@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eledeunf/static/css/main.6f039dce.chunk.css",
-    "main.js": "/eledeunf/static/js/main.ba479508.chunk.js",
-    "main.js.map": "/eledeunf/static/js/main.ba479508.chunk.js.map",
+    "main.js": "/eledeunf/static/js/main.fba0cf99.chunk.js",
+    "main.js.map": "/eledeunf/static/js/main.fba0cf99.chunk.js.map",
     "runtime-main.js": "/eledeunf/static/js/runtime-main.843a002f.js",
     "runtime-main.js.map": "/eledeunf/static/js/runtime-main.843a002f.js.map",
     "static/js/2.12dd5ea6.chunk.js": "/eledeunf/static/js/2.12dd5ea6.chunk.js",
     "static/js/2.12dd5ea6.chunk.js.map": "/eledeunf/static/js/2.12dd5ea6.chunk.js.map",
     "index.html": "/eledeunf/index.html",
-    "precache-manifest.f3fbaa2338ecaf2e636910b410772774.js": "/eledeunf/precache-manifest.f3fbaa2338ecaf2e636910b410772774.js",
+    "precache-manifest.705f7e44b823693207f118fd277a0760.js": "/eledeunf/precache-manifest.705f7e44b823693207f118fd277a0760.js",
     "service-worker.js": "/eledeunf/service-worker.js",
     "static/css/main.6f039dce.chunk.css.map": "/eledeunf/static/css/main.6f039dce.chunk.css.map",
     "static/js/2.12dd5ea6.chunk.js.LICENSE.txt": "/eledeunf/static/js/2.12dd5ea6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.843a002f.js",
     "static/js/2.12dd5ea6.chunk.js",
     "static/css/main.6f039dce.chunk.css",
-    "static/js/main.ba479508.chunk.js"
+    "static/js/main.fba0cf99.chunk.js"
   ]
 }
