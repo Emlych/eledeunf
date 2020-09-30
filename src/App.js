@@ -3,6 +3,7 @@ import './App.css';
 import Sidebar from './components/sidebar';
 import Intro from './components/intro';
 import About from './components/about';
+import Portfolio from './components/portfolio';
 import Timeline from './components/timeline';
 
 class App extends Component {
@@ -17,6 +18,7 @@ class App extends Component {
         <div className="App-body">
           <Intro />
           <About />
+          <Portfolio />
           <Timeline />
         </div>
         
