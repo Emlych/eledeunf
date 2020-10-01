@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import Sidebar from './components/sidebar';
+import Topbar from './components/topbar'
 import Intro from './components/intro';
 import About from './components/about';
 import Portfolio from './components/portfolio';
@@ -13,6 +14,10 @@ class App extends Component {
 
         <div className="App-sidebar">
           <Sidebar />
+        </div>
+
+        <div className="App-topbar">
+          <Topbar />
         </div>
         
         <div className="App-body">

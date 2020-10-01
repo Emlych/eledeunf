@@ -1,0 +1,14 @@
+.topbar-body {
+    background-color: #00B3B3;
+    padding: 2vh 0;
+}
+
+.topbar-nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.topbar-nav a {
+    text-decoration: none;
+    color: black;
+}

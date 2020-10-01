@@ -1,12 +1,16 @@
 .App {
+  font-family: Arial, "Times New Roman", Helvetica;
   max-width: 100%;
   height: auto;
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  background-color:#eee
 }
 
 .App-sidebar {
   position: fixed;
+  top: 0;
+  left: 0;
   background-color: #D4F1F4;
   min-height: 100vh;
   width: 15%;
@@ -19,11 +23,8 @@
   font-size: calc(8px + 1.1vmin);
 }
 
-
 .App-body {
-  background-color:white;
   min-height: 100vh;
-  margin-left: 23%;
   padding: 2%;
   display: flex;
   flex-direction: column;
@@ -31,17 +32,23 @@
   font-size: calc(8px + 1.5vmin);
 }
 
+.App-topbar {
+  visibility: hidden;
+}
+
 @media screen and (max-width: 1280px) {
   .App {
     max-width: 100%;
     height: auto;
     display: block;
-    margin-bottom: 10px;
   }
-
 
   .App-sidebar {
     visibility: hidden;
+  }
+
+  .App-topbar {
+    visibility: visible;
   }
 
   .App-body {
