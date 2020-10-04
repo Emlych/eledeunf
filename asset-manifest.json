@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/eledeunf/static/css/main.5a0d6982.chunk.css",
+    "main.css": "/eledeunf/static/css/main.d37d319b.chunk.css",
     "main.js": "/eledeunf/static/js/main.f9d23d89.chunk.js",
     "main.js.map": "/eledeunf/static/js/main.f9d23d89.chunk.js.map",
     "runtime-main.js": "/eledeunf/static/js/runtime-main.843a002f.js",
@@ -8,15 +8,15 @@
     "static/js/2.bd999944.chunk.js": "/eledeunf/static/js/2.bd999944.chunk.js",
     "static/js/2.bd999944.chunk.js.map": "/eledeunf/static/js/2.bd999944.chunk.js.map",
     "index.html": "/eledeunf/index.html",
-    "precache-manifest.845e59524b75425a045a3189fd22abdf.js": "/eledeunf/precache-manifest.845e59524b75425a045a3189fd22abdf.js",
+    "precache-manifest.7118746366f106d136376e599e3efefc.js": "/eledeunf/precache-manifest.7118746366f106d136376e599e3efefc.js",
     "service-worker.js": "/eledeunf/service-worker.js",
-    "static/css/main.5a0d6982.chunk.css.map": "/eledeunf/static/css/main.5a0d6982.chunk.css.map",
+    "static/css/main.d37d319b.chunk.css.map": "/eledeunf/static/css/main.d37d319b.chunk.css.map",
     "static/js/2.bd999944.chunk.js.LICENSE.txt": "/eledeunf/static/js/2.bd999944.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.843a002f.js",
     "static/js/2.bd999944.chunk.js",
-    "static/css/main.5a0d6982.chunk.css",
+    "static/css/main.d37d319b.chunk.css",
     "static/js/main.f9d23d89.chunk.js"
   ]
 }
