@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/eledeunf/static/css/main.2c909b5b.chunk.css",
-    "main.js": "/eledeunf/static/js/main.84559bce.chunk.js",
-    "main.js.map": "/eledeunf/static/js/main.84559bce.chunk.js.map",
+    "main.css": "/eledeunf/static/css/main.5a0d6982.chunk.css",
+    "main.js": "/eledeunf/static/js/main.f9d23d89.chunk.js",
+    "main.js.map": "/eledeunf/static/js/main.f9d23d89.chunk.js.map",
     "runtime-main.js": "/eledeunf/static/js/runtime-main.843a002f.js",
     "runtime-main.js.map": "/eledeunf/static/js/runtime-main.843a002f.js.map",
     "static/js/2.bd999944.chunk.js": "/eledeunf/static/js/2.bd999944.chunk.js",
     "static/js/2.bd999944.chunk.js.map": "/eledeunf/static/js/2.bd999944.chunk.js.map",
     "index.html": "/eledeunf/index.html",
-    "precache-manifest.d123f74fafde0be9bee94d923f0d877c.js": "/eledeunf/precache-manifest.d123f74fafde0be9bee94d923f0d877c.js",
+    "precache-manifest.845e59524b75425a045a3189fd22abdf.js": "/eledeunf/precache-manifest.845e59524b75425a045a3189fd22abdf.js",
     "service-worker.js": "/eledeunf/service-worker.js",
-    "static/css/main.2c909b5b.chunk.css.map": "/eledeunf/static/css/main.2c909b5b.chunk.css.map",
+    "static/css/main.5a0d6982.chunk.css.map": "/eledeunf/static/css/main.5a0d6982.chunk.css.map",
     "static/js/2.bd999944.chunk.js.LICENSE.txt": "/eledeunf/static/js/2.bd999944.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.843a002f.js",
     "static/js/2.bd999944.chunk.js",
-    "static/css/main.2c909b5b.chunk.css",
-    "static/js/main.84559bce.chunk.js"
+    "static/css/main.5a0d6982.chunk.css",
+    "static/js/main.f9d23d89.chunk.js"
   ]
 }

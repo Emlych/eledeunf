@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79a1761cb5aa71c2c98db51b4b36142e",
+    "revision": "926059b9791b0d36dac84919343e0770",
     "url": "/eledeunf/index.html"
   },
   {
-    "revision": "992d62c09c58cf16dd01",
-    "url": "/eledeunf/static/css/main.2c909b5b.chunk.css"
+    "revision": "af111c2aaa87c3b8eb8e",
+    "url": "/eledeunf/static/css/main.5a0d6982.chunk.css"
   },
   {
     "revision": "55ee5081346ed4d9b016",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eledeunf/static/js/2.bd999944.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "992d62c09c58cf16dd01",
-    "url": "/eledeunf/static/js/main.84559bce.chunk.js"
+    "revision": "af111c2aaa87c3b8eb8e",
+    "url": "/eledeunf/static/js/main.f9d23d89.chunk.js"
   },
   {
     "revision": "5786173fbfd62a27402d",
