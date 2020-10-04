@@ -7,13 +7,6 @@
     box-sizing: inherit;
 }
 
-.s, .m, .l {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin-bottom: 8px;
-}
-
 .grid {
     display: grid;
     justify-content: center;
@@ -24,6 +17,19 @@
     gap: 24px;
     margin: 72px 0 24px 0;
     padding: 0 24px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.s, .m, .l {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 8px;
 }
 
 .s {
@@ -46,4 +52,5 @@
         grid-column-end: span 2;
         grid-row-end: span 2; 
     }
+
 }

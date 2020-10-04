@@ -8,6 +8,7 @@ export default class Introduction extends Component {
         return (
             <div id="home" className="intro-body">
                 <h1 className="intro-h1">Emily <span>LE DEUNF</span></h1>
+                <img src='./images/profilePic.svg' alt="profil Emily" id='intro-profilpic'/>
                 <a href="mailto:lagreouemily@gmail.com">lagreouemily@gmail.com</a>
                 <p className="intro-cv">
                     <a href="https://drive.google.com/file/d/1X6EQ9rDo6J5KLqE6ZbBgVoIkndnP3ZAS/view?usp=sharing" target="_blank" rel="noopener noreferrer">
